@@ -1,0 +1,59 @@
+    body{
+        color:white;
+        background: #872187;
+        margin: 0px;
+        font-family: "Bodoni Moda SC", system-ui;
+        margin-bottom: 100px;
+        
+    }
+    
+    header {
+        border-bottom: solid 2px rgb(255, 11, 186);
+        padding: 20px;
+        font-size:22px;
+        color: rgb(255,11,189);
+
+    }
+
+    .chamada {
+        background: rgb(249, 3, 73);
+        padding-bottom: 40px;
+        padding-top: 40px;
+        display: flex ;
+        justify-content: center;
+    }
+
+    .lily{
+        margin-right: 5%;
+    }
+    h1{
+        font-size: 50px;
+    }
+    
+    p{
+    font: size 20px;
+    }
+
+    .atlas{
+        display: flex;
+        overflow-x: auto;
+        gap: 8px;
+ }
+
+.rylecoco{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 50px;
+} 
+
+.atlas img{
+    opacity: 0.3;
+    height: 200px;
+}
+.atlas img:hover{
+    opacity: 3.0 ;
+    border:5px solid rgb(39, 1, 255);
+}
+.rylecoco h2 {
+    color:rgb(0, 224, 253);
+}
